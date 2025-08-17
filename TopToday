@@ -1,1 +1,82 @@
-
+[
+  {
+    "symbol": "RELIANCE",
+    "name": "Reliance Industries Ltd.",
+    "lastPrice": 2850.70,
+    "change": 45.55,
+    "pChange": 1.62,
+    "volume": 4301200
+  },
+  {
+    "symbol": "TCS",
+    "name": "Tata Consultancy Services Ltd.",
+    "lastPrice": 3935.40,
+    "change": 60.25,
+    "pChange": 1.56,
+    "volume": 2103400
+  },
+  {
+    "symbol": "HDFCBANK",
+    "name": "HDFC Bank Ltd.",
+    "lastPrice": 1632.50,
+    "change": 23.15,
+    "pChange": 1.44,
+    "volume": 3554900
+  },
+  {
+    "symbol": "ICICIBANK",
+    "name": "ICICI Bank Ltd.",
+    "lastPrice": 1123.25,
+    "change": 14.85,
+    "pChange": 1.34,
+    "volume": 2882300
+  },
+  {
+    "symbol": "INFY",
+    "name": "Infosys Ltd.",
+    "lastPrice": 1589.30,
+    "change": 17.65,
+    "pChange": 1.12,
+    "volume": 2678400
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "name": "Bharti Airtel Ltd.",
+    "lastPrice": 1330.00,
+    "change": 22.10,
+    "pChange": 1.69,
+    "volume": 1945000
+  },
+  {
+    "symbol": "ITC",
+    "name": "ITC Ltd.",
+    "lastPrice": 452.45,
+    "change": 6.40,
+    "pChange": 1.44,
+    "volume": 4032100
+  },
+  {
+    "symbol": "LT",
+    "name": "Larsen & Toubro Ltd.",
+    "lastPrice": 3560.25,
+    "change": 38.10,
+    "pChange": 1.08,
+    "volume": 1586700
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank Ltd.",
+    "lastPrice": 1822.90,
+    "change": 21.30,
+    "pChange": 1.18,
+    "volume": 1124900
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "name": "Hindustan Unilever Ltd.",
+    "lastPrice": 2635.60,
+    "change": 33.50,
+    "pChange": 1.29,
+    "volume": 1067300
+  }
+]
